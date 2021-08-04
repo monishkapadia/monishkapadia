@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @monishkapadia
-- 👀 I’m interested in Software/Firmware Development
+- 👀 I’m interested in Embedded Software Development
 - 📫 How to reach me: monish.kapadia10@gmail.com
 
 <!---
